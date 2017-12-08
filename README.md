@@ -6,3 +6,5 @@ Nicolas : https://github.com/WebFaker
 Mahel : https://github.com/M00NBOY
 
 Quentin : https://github.com/unneqit
+
+Valentine : https://github.com/Vlry
