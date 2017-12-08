@@ -1,4 +1,7 @@
 # Exposé histoire de l'internet
 Shell / Interface graphique / Liste des commandes essentielles du shell
 
-https://github.com/WebFaker - Nicolas
+
+Nicolas : https://github.com/WebFaker
+
+Mahel : https://github.com/M00NBOY
